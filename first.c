@@ -4,6 +4,7 @@
 int main(){
   printf("hello world\n");
   printf("another line\n");
-  printf("Third linei\n")
+  printf("Third linei\n");
+  printf("kez iz zan ra Mirija \n");
   return 0;
 }
